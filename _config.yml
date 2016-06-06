@@ -11,9 +11,8 @@ email: mr.ainur.timerbaev@bk.ru
 description: > # this means to ignore newlines until "baseurl:"
  страница находится в стадии разработки
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://aidesign.su" # the base hostname & protocol for your site
+github_username: designAi
 
 # Build settings
 markdown: kramdown
